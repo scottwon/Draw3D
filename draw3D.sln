@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "draw3D", "draw3D\draw3D.vcxproj", "{8308DD67-DE48-4BE3-A48D-915C96E10937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8308DD67-DE48-4BE3-A48D-915C96E10937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8308DD67-DE48-4BE3-A48D-915C96E10937}.Debug|Win32.Build.0 = Debug|Win32
+		{8308DD67-DE48-4BE3-A48D-915C96E10937}.Release|Win32.ActiveCfg = Release|Win32
+		{8308DD67-DE48-4BE3-A48D-915C96E10937}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
